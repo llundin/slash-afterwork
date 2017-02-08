@@ -1,4 +1,4 @@
-service: mm-afterwork
+service: arts2-afterwork
 package:
   include:
     - afterwork.py
